@@ -39,3 +39,4 @@
     {
         "chat"			"Join Our Steam Group! Using: {green}!steam
     }
+}
