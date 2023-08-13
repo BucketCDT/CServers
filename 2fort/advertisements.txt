@@ -1,0 +1,40 @@
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"Welcome To 2Fort!"
+    }
+
+    "2"
+    {
+        "chat"		"Join Our Discord Server! Use: {green}!discord"
+    }
+    "4"
+    {
+        "chat"		"By Joining Our Discord You Can: View Server List, Talk To Administrators, Get Updates, Or Make Suggestions!"
+    }
+    "5"
+    {
+        "chat"			"Find Our Other Servers With Tag 'cserv'"
+    }
+    "6"
+    {
+        "chat"			"We Also Have A Hightower Server Too! !hightower"
+    }
+    "8"
+    {
+        "chat"			"Join Our Steam Group! Using: {gre

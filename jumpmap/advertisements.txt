@@ -1,0 +1,40 @@
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"Welcome!"
+    }
+    "2"
+    {
+        "chat"			"Join Our Steam! Using: {green}!steam"
+    }
+    "3"
+    {
+        "chat"		"Have A Very Nice Day :3"
+    }
+    "4"
+    {
+        "chat"			"Join Our Discord! Use: {green}!discord"
+    }
+    "5"
+    {
+        "chat"			"Find Our Other Servers With Tag 'cserv'"
+    }
+    "6"
+    {
+        "chat"			"Join Our Discord! You Can Recommend Ideas, View Servers, Get Updates, And Talk To People! Use !discord To View The Discord Link!"
+    }

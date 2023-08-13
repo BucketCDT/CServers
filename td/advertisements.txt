@@ -1,0 +1,40 @@
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"Welcome To Towerdefense!"
+    }
+
+    "2"
+    {
+        "chat"		"Make Sure To Join Our Discord Server! Using: {green}!discord"
+    }
+    "4"
+    {
+        "chat"		"Have Fun!"
+    }
+    "5"
+    {
+        "chat"			"Find Our Other Servers With Tag 'cserv'"
+    }
+    "6"
+    {
+        "chat"			"We Also Have A 2Fort Server Too!"
+    }
+    "8"
+    {
+        "chat"			"We Have A Steam Group! Using: {green}!steam"
