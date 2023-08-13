@@ -38,3 +38,4 @@
     "8"
     {
         "chat"			"We Have A Steam Group! Using: {green}!steam"
+}
