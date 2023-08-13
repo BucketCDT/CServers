@@ -1,0 +1,44 @@
+"ChatResponses"
+{
+	"!discord"
+	{
+		"text"		"{GREEN}https://discord.gg/SvkJrgFf2v"
+	}
+	
+	"!hightower"
+	{
+		"text"		"76.10.86.215:27016"
+	}
+	"!steam"
+	{
+		"text"		"{GREEN}https://steamcommunity.com/groups/CServerssteam"
+	}
+	"!rules"
+	{
+		"text"		"1.Keep swearing and other profanity to a moderate level 2.Don't be a jerk 3.No cheating or exploiting (PERIOD) 4.Getting caught with an VPN or Proxy is not allowed"
+	}
+	"!admin"
+	{
+		"text"		"Your Kinda Dumb, Arent you?"
+	}
+	"!buddha"
+	{
+		"text"		"Are you okay?"
+	}
+	"!dumb"
+	{
+		"text"		"We know..."
+	}
+	"!rtd"
+	{
+		"text"		"Please just get help, RTD is not on this server... STOP ASKING"
+	}
+	"!itemtest"
+	{
+		"text"		"76.10.86.215:27014"
+	}
+	"!mvm"
+	{
+		"text"		"76.10.86.215:27019"
+	}
+}
