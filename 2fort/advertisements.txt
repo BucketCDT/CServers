@@ -37,4 +37,6 @@
     }
     "8"
     {
-        "chat"			"Join Our Steam Group! Using: {gre
+        "chat"			"Join Our Steam Group! Using: {green}!steam
+    }
+}

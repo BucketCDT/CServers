@@ -37,4 +37,5 @@
     "6"
     {
         "chat"			"Join Our Discord! You Can Recommend Ideas, View Servers, Get Updates, And Talk To People! Use !discord To View The Discord Link!"
-    }
+    }
+}
