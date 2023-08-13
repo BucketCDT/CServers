@@ -36,4 +36,6 @@
     }
     "6"
     {
-        "chat"			"Join Our Discord! Using: !d
+        "chat"			"Join Our Discord! Using: !discord"
+    }
+}
