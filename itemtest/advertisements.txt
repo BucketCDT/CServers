@@ -36,6 +36,6 @@
     }
     "6"
     {
-        "chat"			"Join Our Discord! Using: !discord"
+        "chat"			"Join Our Discord! Using: {green}!discord"
     }
 }
