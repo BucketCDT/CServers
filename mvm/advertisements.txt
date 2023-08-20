@@ -17,26 +17,32 @@
     "1"
     {
         "chat"		"Welcome To MVM!"
+	    "flags"       "s"
     }
 
     "2"
     {
         "chat"		"Join Our Discord Server! Using: {green}!discord"
+	    "flags"       "s"
     }
     "4"
     {
         "chat"		"View Our Links! Using: {green}?motd"
+	    "flags"       "s"
     }
     "5"
     {
         "chat"			"Find Our Other Servers With Tag 'cserv'"
+	    "flags"       "s"
     }
     "6"
     {
         "chat"			"Select The Next Map With {yellow}?rtv"
+	    "flags"       "s"
     }
     "8"
     {
         "chat"			"Join Our Steam! Using: {green}!steam"
+	    "flags"       "s"
     }
 }
