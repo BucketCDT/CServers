@@ -17,25 +17,31 @@
     "1"
     {
         "chat"		"Do You Want to change the map? Go into the tf2's votemenu!"
+    	"flags"       "s"
     }
     "2"
     {
         "chat"			"Join Our Discord Server! Using: {green}!discord"
+    	"flags"       "s"
     }
     "3"
     {
         "chat"			"Vote For The Next Map! Using: {gold}?rtv"
+    	"flags"       "s"
     }
     "4"
     {
         "chat"			"Find Our Other Servers With Tag 'cserv'"
+    	"flags"       "s"
     }
     "5"
     {
         "chat"			"Join Our Steam! Using: {green}!steam"
+    	"flags"       "s"
     }
     "6"
     {
         "chat"			"Welcome To CServers-Casual!"
+    	"flags"       "s"
     }
 }
