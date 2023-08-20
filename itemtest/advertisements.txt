@@ -17,25 +17,31 @@
     "1"
     {
         "chat"		"Welcome To Itemtest!"
+	    "flags"       "s"
     }
     "2"
     {
         "chat"			"Join Our Steam! Using: {green}!steam"
+	    "flags"       "s"
     }
     "3"
     {
         "chat"		"We have an MVM server! Join Using: !mvm"
+	    "flags"       "s"
     }
     "4"
     {
         "chat"			"Ensure To Check Out Our Other Servers!"
+	    "flags"       "s"
     }
     "5"
     {
         "chat"			"Find Our Other Servers With Tag 'cserv'"
+	    "flags"       "s"
     }
     "6"
     {
         "chat"			"Join Our Discord! Using: {green}!discord"
+	    "flags"       "s"
     }
 }
