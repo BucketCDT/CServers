@@ -17,26 +17,32 @@
     "1"
     {
         "chat"		"Welcome To 2Fort!"
+    	"flags"       "s"
     }
 
     "2"
     {
         "chat"		"Join Our Discord Server! Use: {green}!discord"
+    	"flags"       "s"
     }
     "4"
     {
         "chat"		"By Joining Our Discord You Can: View Server List, Talk To Administrators, Get Updates, Or Make Suggestions!"
+    	"flags"       "s"
     }
     "5"
     {
         "chat"			"Find Our Other Servers With Tag 'cserv'"
+    	"flags"       "s"
     }
     "6"
     {
         "chat"			"We Also Have A Hightower Server Too! !hightower"
+    	"flags"       "s"
     }
     "8"
     {
         "chat"			"Join Our Steam Group! Using: {green}!steam
+    	"flags"       "s"
     }
 }

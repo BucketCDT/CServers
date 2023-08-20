@@ -17,25 +17,31 @@
     "1"
     {
         "chat"		"Welcome!"
+	    "flags"       "s"
     }
     "2"
     {
         "chat"			"Join Our Steam! Using: {green}!steam"
+	    "flags"       "s"
     }
     "3"
     {
         "chat"		"Have A Very Nice Day :3"
+	    "flags"       "s"
     }
     "4"
     {
         "chat"			"Join Our Discord! Use: {green}!discord"
+	    "flags"       "s"
     }
     "5"
     {
         "chat"			"Find Our Other Servers With Tag 'cserv'"
+	    "flags"       "s"
     }
     "6"
     {
         "chat"			"Join Our Discord! You Can Recommend Ideas, View Servers, Get Updates, And Talk To People! Use !discord To View The Discord Link!"
+	    "flags"       "s"
     }
 }
