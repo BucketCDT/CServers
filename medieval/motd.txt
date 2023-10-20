@@ -1,9 +1,8 @@
-Welcome To CServers' Jumpmap Server!
+Welcome To Medieval TF2!
 
-Jump Until You Can't Jump No More!!
+This server runs a mapcycle with medieval mode enabled, use !rtv to vote for the nextmap!
 
 ---------------------------------
 Make Sure To Check Us Out!
 Discord: https://discord.gg/SvkJrgFf2v
 Steam: https://steamcommunity.com/groups/CServerssteam
-

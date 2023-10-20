@@ -1,0 +1,48 @@
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"Welcome To CServers-Hightower!"
+    	"flags"       "s"
+    }
+
+    "2"
+    {
+        "chat"		"Please Join Our Discord! Using: {green}!discord"
+    	"flags"       "s"
+    }
+    "3"
+    {
+        "chat"		"Have A Good Day! =D"
+    	"flags"       "s"
+    }
+    "4"
+    {
+        "chat"			"Find Our Other Servers With Tag 'cserv'"
+    	"flags"       "s"
+    }
+    "5"
+    {
+        "chat"			"We Also Have A Idle/Itemtest Server Too! Join Using: {green}!itemtest"
+    	"flags"       "s"
+    }
+    "6"
+    {
+        "chat"			"Join Our Steam! Using: {green}!steam"
+    	"flags"       "s"
+    }
+}
